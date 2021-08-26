@@ -1,2 +1,2 @@
 # Blender-trials
-Blender practice test and experiments
+Blender practice tests and experiments
